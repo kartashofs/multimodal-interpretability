@@ -26,7 +26,7 @@ setup(
     author='Ivan Kartashov',
     author_email='kartashov@duck.com',
     description='A MultiModal library for mechanistic interpretability.',
-    long_description=open('docs/README.md').read(),
+    long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     url='https://github.com/kartashofs/multimodal-interpretability',
     packages=find_packages(where='src'),
